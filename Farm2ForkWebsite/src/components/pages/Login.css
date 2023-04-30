@@ -1,0 +1,15 @@
+.container {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.login-form {
+    width: auto;
+    background-color: brown;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
